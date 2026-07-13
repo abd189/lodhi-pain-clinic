@@ -18,7 +18,7 @@ export const CLINIC = {
   tagline: 'Your Recovery is Our Priority',
   hospital: 'Ali Hospital Maternity Home',
   address: '19 A/Z, Model Town C, Bahawalpur',
-  phone: '0305-4974223',
+  phone: '+92-305-4974223',
   altPhone: '062-2883455',
   timings: 'Monday – Saturday, 4:00 PM – 10:00 PM',
   consultationFee: 'Rs. 1,000',
