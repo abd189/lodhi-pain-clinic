@@ -83,7 +83,7 @@ export default function Footer() {
 
       <div className="section-container mt-12 pt-6 border-t border-white/10 text-center">
         <p className="text-xs text-white/50">
-&copy; {new Date().getFullYear()} Designed by{'abd '}
+&copy; {new Date().getFullYear()} Designed by{' '}
 <a
   href="https://www.instagram.com/abdullvhawan?igsh=MWx1eW5peTA3bzNvZA%3D%3D&utm_source=qr"
   target="_blank"
