@@ -33,7 +33,7 @@ export default function Hero() {
           transition={{ duration: 0.7, ease: 'easeOut' }}
           className="flex flex-col gap-6"
         >
-          <span className="eyebrow w-fit">{CLINIC.subtitle} &middot; Bahawalpur</span>
+          <span className="eyebrow w-fit"> YOUR TRUSTED PAIN & PHYSIO REHAB CENTER </span>
 
           <h1 className="text-4xl sm:text-5xl lg:text-[3.4rem] font-extrabold leading-[1.12] text-ink">
             Restore Movement.
