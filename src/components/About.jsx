@@ -50,7 +50,7 @@ export default function About() {
               className="relative w-64 sm:w-72 rounded-[2rem] object-cover shadow-soft border-4 border-white"
             />
             <div className="absolute -top-5 -right-5 bg-accent-500 text-white rounded-2xl px-4 py-3 shadow-card text-center">
-              <p className="text-xl font-extrabold leading-none">5+</p>
+              <p className="text-xl font-extrabold leading-none">3+</p>
               <p className="text-[10px] uppercase tracking-wide mt-1">Years Exp.</p>
             </div>
           </div>
