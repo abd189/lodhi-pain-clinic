@@ -18,13 +18,14 @@ import 'swiper/css/pagination'
 import 'swiper/css/navigation'
 
 const images = [
-  { src: physiotherapyImg, alt: 'Dr. Sardar Waris Lodhi - Physiotherapy session' },
+  { src: logoImg, alt: 'Lodhi Pain Clinic logo' },
+  { src: doctorImg, alt: 'Dr. Sardar Waris Lodhi portrait' },
   { src: neuromuscularImg, alt: 'Neuromuscular physical therapy treatment' },
   { src: acupunctureImg, alt: 'Acupuncture therapy at Lodhi Pain Clinic' },
   { src: cuppingImg, alt: 'Dry cupping therapy treatment' },
-  { src: doctorImg, alt: 'Dr. Sardar Waris Lodhi portrait' },
   { src: feesImg, alt: 'Lodhi Pain Clinic consultation information' },
-  { src: logoImg, alt: 'Lodhi Pain Clinic logo' },
+  { src: physiotherapyImg, alt: 'Dr. Sardar Waris Lodhi - Physiotherapy session' },
+  
 ]
 
 export default function Gallery() {

@@ -6,8 +6,8 @@ import { WHATSAPP_LINKS, CLINIC } from '../data/contact'
 import doctorImg from '../assets/images/doctor-portrait.png'
 
 const stats = [
-  { end: 5, suffix: '+', label: 'Years Experience' },
-  { end: 2000, suffix: '+', label: 'Patients Treated' },
+  { end: 3, suffix: '+', label: 'Years Experience' },
+  { end: 1000, suffix: '+', label: 'Patients Treated' },
   { end: 18, suffix: '+', label: 'Specialized Therapies' },
   { end: 98, suffix: '%', label: 'Patient Satisfaction' },
 ]

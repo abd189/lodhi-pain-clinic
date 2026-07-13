@@ -26,7 +26,7 @@ const infoCards = [
   {
     icon: FaMapMarkerAlt,
     title: 'Location',
-    value: 'Model Town C',
+    value: 'Ali Hospital & Maternity Home',
     note: CLINIC.address,
   },
 ]
@@ -65,7 +65,8 @@ export default function About() {
                 Meet <span className="gradient-text">{CLINIC.doctor}</span>
               </>
             }
-            subtitle={`${CLINIC.qualifications}. Dedicated to helping patients recover naturally through personalized, evidence-based physiotherapy and rehabilitation, without unnecessary medication or surgery.`}
+            subtitle={`${CLINIC.qualifications}. A Specialist in Pain Management and Neuromuscular Physiotherapy, dedicated to restoring movement and quality of life.  
+With a focus on personalized, evidence-based rehabilitation, Dr. Lodhi helps patients recover naturally and effectively, minimizing the need for medication or invasive procedures..`}
           />
 
           <div className="grid sm:grid-cols-2 gap-4 mt-2">
