@@ -1,8 +1,8 @@
 import { Link as ScrollLink } from 'react-scroll'
-import { FaFacebookF, FaInstagram, FaWhatsapp, FaYoutube } from 'react-icons/fa'
+import { FaFacebookF, FaInstagram, FaWhatsapp } from 'react-icons/fa'
+import { FaTiktok } from "react-icons/fa6";
 import { CLINIC, WHATSAPP_LINKS } from '../data/contact'
 import logo from '../assets/images/logo.jpg'
-
 const quickLinks = [
   { label: 'Home', to: 'home' },
   { label: 'About', to: 'about' },
@@ -16,7 +16,7 @@ const socials = [
   { icon: FaWhatsapp, href: WHATSAPP_LINKS.general, label: 'WhatsApp' },
   { icon: FaFacebookF, href: 'https://www.facebook.com/share/1B8MHURcaX/', label: 'Facebook' },
   { icon: FaInstagram, href: 'https://www.instagram.com/physiorehabwithwaris?igsh=MWh5Nm9iNTZ6M2V1ZA==', label: 'Instagram' },
-  { icon: FaTikTok, href: 'https://www.tiktok.com/@physiorehabwithwaris?_r=1&_t=ZS-97zqkphYmN2', label: 'TikTok' },
+  { icon: FaTiktok, href: 'https://www.tiktok.com/@physiorehabwithwaris?_r=1&_t=ZS-97zqkphYmN2', label: 'TikTok' },
 ]
 
 export default function Footer() {
